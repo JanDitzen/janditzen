@@ -15,6 +15,6 @@ My **Stata** packages
 | [simulate2](https://janditzen.github.io/simulate2/) | ![version](https://img.shields.io/github/v/release/janditzen/simulate2) | ![release](https://img.shields.io/github/release-date/janditzen/simulate2) | Enhanced and parallised simulations in Stata. | |
 | [mmat2tex](https://github.com/JanDitzen/mmat2tex) | ![version](https://img.shields.io/github/v/release/janditzen/mmat2tex) | ![release](https://img.shields.io/github/release-date/janditzen/mmat2tex) | Export Mata Matrix to LaTeX Tables. | |
 | [stataid](https://janditzen.github.io/stataid/) | ![version](https://img.shields.io/github/v/release/janditzen/stataid) | ![release](https://img.shields.io/github/release-date/janditzen/stataid) | Obtaining and displaying information about running Stata instances and closing Stata instances in Microsoft Windows. | |
-| [multishell](https://github.com/JanDitzen/multishell) | ![version](https://img.shields.io/github/v/release/janditzen/multishell) | ![release](https://img.shields.io/github/release-date/janditzen/multishell) | Parallise loops in Stata **(no further bug fixing/development)**! | |
+| [multishell](https://github.com/JanDitzen/multishell) | ![version](https://img.shields.io/github/v/release/janditzen/multishell) | ![release](https://img.shields.io/github/release-date/janditzen/multishell) | Parallise loops in Stata (discontinued, no further bug fixing/development). | |
 
 
