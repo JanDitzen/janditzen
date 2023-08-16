@@ -5,7 +5,6 @@ My research interests are in the field of Applied Econometrics with a focus on P
 See also my [Personal webpage](https://www.jan.ditzen.net).
 
 ## **Stata** packages - Econometric Methods
----
 |Package|Version|Updated|Description| Article/Slides |
 |----| ---- | ---- | ----- | ----- |
 | [xtdcce2](https://janditzen.github.io/xtdcce2/) | ![version](https://img.shields.io/github/v/release/janditzen/xtdcce2) | ![release](https://img.shields.io/github/release-date/janditzen/xtdcce2)  | Estimation of Common Correlated Effects (CCE) Estimator. Includes **xtcd2** and **xtcse2** to test for and estimate exponent of cross-section dependence| [Stata Journal 18:3](https://journals.sagepub.com/doi/10.1177/1536867X1801800306), [Stata Journal 21:3](https://journals.sagepub.com/doi/abs/10.1177/1536867X211045560), [Slides](https://www.stata.com/symposiums/economics21/slides/Econ21_Ditzen.pdf). | 
