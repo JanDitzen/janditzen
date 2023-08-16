@@ -4,7 +4,7 @@ My research interests are in the field of Applied Econometrics with a focus on P
 
 See also my [Personal webpage](https://www.jan.ditzen.net).
 
-My **Stata** packages
+Econometric **Stata** packages
 ---
 |Package|Version|Updated|Description| Article/Slides |
 |----| ---- | ---- | ----- | ----- |
@@ -12,8 +12,13 @@ My **Stata** packages
 | [xtbreak](https://janditzen.github.io/xtbreak/)| ![version](https://img.shields.io/github/v/release/janditzen/xtbreak) | ![release](https://img.shields.io/github/release-date/janditzen/xtbreak) | Estimating and testing for many known and unknown structural breaks in time series and panel data.| [arXiv 2110.14550](https://arxiv.org/abs/2110.14550) |
 | [nwxtregress](https://janditzen.github.io/nwxtregress/) | ![version](https://img.shields.io/github/v/release/janditzen/nwxtregress) | ![release](https://img.shields.io/github/release-date/janditzen/nwxtregress) | Network Regressions in Stata with unbalanced panel data and time varying network structures or spatial weight matrices. | [Slides](https://www.stata.com/meeting/switzerland22/slides/Switzerland22_Ditzen.pdf)  |
 | [xthst](https://github.com/JanDitzen/xthst) | ![version](https://img.shields.io/github/v/release/janditzen/xthst) | ![release](https://img.shields.io/github/release-date/janditzen/xthst) | Testing for slope homogeneity in Stata. | [Stata Journal 21:1](https://journals.sagepub.com/doi/full/10.1177/1536867X211000004) | 
+
+Data/Auxilliary **Stata**  packages
+|Package|Version|Updated|Description| Article/Slides |
+|----| ---- | ---- | ----- | ----- |
 | [simulate2](https://janditzen.github.io/simulate2/) | ![version](https://img.shields.io/github/v/release/janditzen/simulate2) | ![release](https://img.shields.io/github/release-date/janditzen/simulate2) | Enhanced and parallised simulations in Stata. | |
 | [mmat2tex](https://github.com/JanDitzen/mmat2tex) | ![version](https://img.shields.io/github/v/release/janditzen/mmat2tex) | ![release](https://img.shields.io/github/release-date/janditzen/mmat2tex) | Export Mata Matrix to LaTeX Tables. | |
+| [htmltab2stata](https://janditzen.github.io/htmltab2stata/) | ![version](https://img.shields.io/github/v/release/janditzen/htmltab2stata) | ![release](https://img.shields.io/github/release-date/janditzen/htmltab2stata) |  Converting html tables into a Stata dataset. | |
 | [stataid](https://janditzen.github.io/stataid/) | ![version](https://img.shields.io/github/v/release/janditzen/stataid) | ![release](https://img.shields.io/github/release-date/janditzen/stataid) | Obtaining and displaying information about running Stata instances and closing Stata instances in Microsoft Windows. | |
 | [multishell](https://github.com/JanDitzen/multishell) | ![version](https://img.shields.io/github/v/release/janditzen/multishell) | ![release](https://img.shields.io/github/release-date/janditzen/multishell) | Parallise loops in Stata (discontinued, no further bug fixing/development). | |
 
