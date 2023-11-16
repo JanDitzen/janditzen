@@ -25,4 +25,8 @@ See also my [Personal webpage](http://www.jan.ditzen.net).
 | [stataid](https://janditzen.github.io/stataid/) | ![version](https://img.shields.io/github/v/release/janditzen/stataid) | ![release](https://img.shields.io/github/release-date/janditzen/stataid) | Obtaining and displaying information about running Stata instances and closing Stata instances in Microsoft Windows. |
 | [multishell](https://github.com/JanDitzen/multishell) | ![version](https://img.shields.io/github/v/release/janditzen/multishell) | ![release](https://img.shields.io/github/release-date/janditzen/multishell) | Parallise loops in Stata (discontinued, no further bug fixing/development). |
 
+## Overview of Downloads from SSC
+
+![pic](https://drive.google.com/file/d/1a9ADjD2RiKRqU6zECKab_K35wo3z7-hg/view?usp=sharing)
+
 
