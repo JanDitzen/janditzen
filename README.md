@@ -27,6 +27,6 @@ See also my [Personal webpage](http://www.jan.ditzen.net).
 
 ## Overview of Downloads from SSC
 
-![pic](https://drive.google.com/file/d/1a9ADjD2RiKRqU6zECKab_K35wo3z7-hg/view?usp=sharing)
+![pic](https://drive.google.com/uc?export=view&id=1a9ADjD2RiKRqU6zECKab_K35wo3z7-hg)
 
 
