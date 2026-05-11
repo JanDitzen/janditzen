@@ -24,7 +24,7 @@ See also my [Personal webpage](http://www.jan.ditzen.net).
 | [mmat2tex](https://github.com/JanDitzen/mmat2tex) | ![version](https://img.shields.io/github/v/release/janditzen/mmat2tex) | ![release](https://img.shields.io/github/release-date/janditzen/mmat2tex) | Export Mata Matrix to LaTeX Tables. |
 | [htmltab2stata](https://janditzen.github.io/htmltab2stata/) | ![version](https://img.shields.io/github/v/release/janditzen/htmltab2stata) | ![release](https://img.shields.io/github/release-date/janditzen/htmltab2stata) |  Converting html tables into a Stata dataset. |
 | [stataid](https://janditzen.github.io/stataid/) | ![version](https://img.shields.io/github/v/release/janditzen/stataid) | ![release](https://img.shields.io/github/release-date/janditzen/stataid) | Obtaining and displaying information about running Stata instances and closing Stata instances in Microsoft Windows. |
-| [multishell](https://github.com/JanDitzen/adotools) | ![version](https://img.shields.io/github/v/release/janditzen/adotools) | ![release](https://img.shields.io/github/release-date/janditzen/adotools) | Advanced management of (project-)specific ado paths in Stata. |
+| [adotools](https://github.com/JanDitzen/adotools) | ![version](https://img.shields.io/github/v/release/janditzen/adotools) | ![release](https://img.shields.io/github/release-date/janditzen/adotools) | Advanced management of (project-)specific ado paths in Stata. |
 | [multishell](https://github.com/JanDitzen/multishell) | ![version](https://img.shields.io/github/v/release/janditzen/multishell) | ![release](https://img.shields.io/github/release-date/janditzen/multishell) | Parallise loops in Stata (discontinued, no further bug fixing/development). |
 
 ## Overview of Downloads from SSC
